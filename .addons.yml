@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  bitwarden:
+    repository: cfamfl2019/addon-bitwarden
+    target: bitwarden
+    image: ghcr.io/cfamfl2019/addon-bitwarden
